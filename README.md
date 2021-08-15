@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @edasandalci
+- 👀 I’m interested in Information Design...
+- 🌱 I’m currently Research Assistant ...
+- 📫 How to reach me sandalcieda@gmail.com...
+
+<!---
+edasandalci/edasandalci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
